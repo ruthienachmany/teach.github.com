@@ -2,7 +2,7 @@
 chapter: Merge
 layout: slide
 tags: ['merge']
-categories: ['slidecontent']
+categories: ['slidecontent','diagram']
 ---
 
 <div class="diagram-group">

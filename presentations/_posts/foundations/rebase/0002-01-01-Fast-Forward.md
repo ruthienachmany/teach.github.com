@@ -2,7 +2,7 @@
 chapter: Rebase
 layout: slide
 tags: ['rebase']
-categories: ['slidecontent']
+categories: ['slidecontent','diagram']
 ---
 
 <div class="diagram-group">
